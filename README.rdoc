@@ -1,12 +1,15 @@
-<p>A clone of the popular website Stack Overflow.</p>
+A clone of the popular website Stack Overflow.
 
-<p>User can create,edit, and delete questions, answers and responses.</p>
-<p>User can create answers to questions.</p>
-<p>User can create response to questions.</p>
-<p>User can create response to answers.</p>
-<p>Users can upvote questions and answers.</p>
+User Stories:
 
-<p>Created using Ruby on Rails within 3 days. </p>
-<p>Created using Test-Driven and Behavior Driven Development. </p>
+- User can create,edit, and delete questions, answers and responses.
+- User can create answers to questions.
+- User can create response to questions.
+- User can create response to answers.
+- Users can upvote questions and answers.
+
+Created using Ruby on Rails within 3 days. 
+
+Created using Test-Driven and Behavior Driven Development. 
 
 
